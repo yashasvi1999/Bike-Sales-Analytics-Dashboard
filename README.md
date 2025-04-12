@@ -4,10 +4,16 @@
 This project focuses on analyzing sales data from the **AdventureWorks** database using **Power BI**. The goal is to uncover actionable business insights from transactional data across regions, customers, and product categories.
 
 ### Objectives
-- Analyze sales performance over time
-- Identify top-performing products and customer segments
-- Monitor regional trends and revenue breakdowns
-- Enable dynamic filtering for ad-hoc insights
+1. Sales Managers need a high-level Power BI dashboard to:
+   - Monitor overall internet sales performance.
+   - Identify top-selling products and high-value customers.
+   - Track sales performance against budget over time.
+   - Ensure data is refreshed daily for up-to-date insights.
+
+2. Sales Representatives need detailed sales analysis tools to:
+   - View internet sales by customer to identify frequent buyers and potential upselling opportunities.
+   - View internet sales by product to focus on high-performing items.
+   - Use interactive filters to analyze specific customers and products within the dashboard.
 
 ### Tools & Technologies Used
 - **Power BI** – for building the dashboard and creating visual insights
