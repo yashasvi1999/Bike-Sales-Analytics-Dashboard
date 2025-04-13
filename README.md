@@ -8,8 +8,7 @@ This project focuses on analyzing sales data from the **AdventureWorks** databas
    - Monitor overall internet sales performance.
    - Identify top-selling products and high-value customers.
    - Track sales performance against budget over time.
-   - Ensure data is refreshed daily for up-to-date insights.
-
+     
 2. Sales Representatives need detailed sales analysis tools to:
    - View internet sales by customer to identify frequent buyers and potential upselling opportunities.
    - View internet sales by product to focus on high-performing items.
